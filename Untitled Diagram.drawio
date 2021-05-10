@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T03:40:56.575Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="gudXgwz7c_irkfe-kH85" version="14.6.11" type="github"><diagram id="VvYACsKXrhPPw5MJeiXB" name="Page-1">1VdNb6MwEP01Pq4UoBg44ixJK3V7SaXVHp3gghODkTH52F+/NpgChY2yUqOlUoTsN0PG8+bNyABnmZ3XAhfpDx4TBuxFfAbOd2DbMIDqqYFLA7iW1wCJoHEDWR2wob+JARcGrWhMyoGj5JxJWgzBHc9zspMDDAvBT0O3N86GUQuckBGw2WE2Rn/SWKYN6ttehz8SmqRtZAsGjSXDrbPJpExxzE89yImAsxScy2aVnZeEae5aXpr3Vn+xvh9MkFze8sL+1+tL/nI4rNcMxY/b56f06fWbSeOIWWUSNoeVl5YBEitCzJYLmfKE55hFHYoEr/KY6DALtet8njkvFGgpcE+kvJjq4kpyBaUyY8Y6TsVkV/JK7MiV87eSwCIh8oqf0/jpXHoBDFFrwjMixUU5CMKwpMdh8bHRUPLu19GsFobpf2DdGrMe+cBXP0+HSzQNkQsQAigEkQdCBHyk6dilJMOjCnX8azJPKZVkU+Cat5Nqyhu5PhIhyfkqO60VGkmbnrZcsz91HWK1sk973dH6fTqh8IvL2L5RxtasZGxPsL7CBVXPo4q5mqlcb1UrvJda/S+uVudGtbqzUqszMXRdECAQRHrh2wA5vRmr/0ypQrvYwF/2LfuS57NTte39b1m7I4J7s2BbUaquXrMZCg/e3OgLJvWJfIBgrU8XhG5PhRBnmpV8WxY1I5CpA6KtUKtEryZFqsiRQypLKfiBLDnjQiE5z/VseaOMfYAwo0mutjtFOVE40lRTdU8OjSGjcVwPpqnaDYfVJ5TPWXwoH5wo38NE+Zx7lc+autSN5ksEQeCDcFWbFiCEGlEXv6CeNH4IgtXsWsPx79caatt9AdW23mekE/0B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-10T03:43:02.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="9xvvAIrNdzS8xG8tet2V" version="14.6.11" type="github">
+  <diagram id="VvYACsKXrhPPw5MJeiXB" name="Page-1">
+    <mxGraphModel dx="696" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jYTNnNkkGGlBdHbLIhIT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jYTNnNkkGGlBdHbLIhIT-1" target="jYTNnNkkGGlBdHbLIhIT-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYTNnNkkGGlBdHbLIhIT-1" value="與 agent建立 schema" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYTNnNkkGGlBdHbLIhIT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jYTNnNkkGGlBdHbLIhIT-2" target="jYTNnNkkGGlBdHbLIhIT-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYTNnNkkGGlBdHbLIhIT-2" value="/api/v1/schema" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jYTNnNkkGGlBdHbLIhIT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jYTNnNkkGGlBdHbLIhIT-3" target="jYTNnNkkGGlBdHbLIhIT-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYTNnNkkGGlBdHbLIhIT-3" value="回傳 schema id 和 schema json" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dXMe-1l8VUXSnPUnW-Z-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jYTNnNkkGGlBdHbLIhIT-5" target="jYTNnNkkGGlBdHbLIhIT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYTNnNkkGGlBdHbLIhIT-5" value="api/v1/buiild/schema" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jYTNnNkkGGlBdHbLIhIT-9" value="帶入 schema&amp;nbsp;&lt;br&gt;json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="260" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYTNnNkkGGlBdHbLIhIT-11" value="回傳是否成功" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
